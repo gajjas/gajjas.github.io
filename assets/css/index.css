@@ -7,6 +7,10 @@
     font-size: 40px;
 }
 
+hr{
+    border-color:rgb(84, 1, 139);
+}
+
 #linkedin{
     color: #0e76a8;
 }
@@ -26,12 +30,12 @@
 }
 
 #mail{
-    color: rgb(84, 1, 139);
+    color: rgb(114, 3, 189);
 }
 
 #nav{
     background: #1d1c1c;
-    color: rgb(84, 1, 139);
+    color: rgb(114, 3, 189);
 }
 
 body{
@@ -55,14 +59,14 @@ p{
 
 .jumbotron{
     background:#1F1F1D;
-    height: 375px;
+    height: 25%;
     padding: 2rem;
     border-radius: 6rem;
     margin-top: 20px;
 }
 
 .image{
-    height: 225px;
+    height: 30%;
     border: solid rgb(114, 3, 189) 8px;
     border-radius: 7rem;
 }
