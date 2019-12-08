@@ -29,6 +29,17 @@ hr{
     margin-bottom: 10px;
 }
 
+a{
+    color: rgb(114, 3, 189);
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+    text-transform: none;
+    color: rgb(114, 3, 189);
+}
+
 #mail{
     color: rgb(114, 3, 189);
 }
@@ -63,6 +74,7 @@ p{
     padding: 2rem;
     border-radius: 6rem;
     margin-top: 20px;
+    border: solid rgb(114, 3, 189) 3px;
 }
 
 .image{
@@ -74,6 +86,7 @@ p{
 .icon{
     padding: 10px;
     color: #747474;
+    text-align: center;
 }
 
 .profile{
@@ -108,4 +121,13 @@ p{
 
 .project-description{
     margin: auto;
+}
+
+.project-info{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.projectDesDiv{
+    margin-top: 20px;
 }
