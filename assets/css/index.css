@@ -5,6 +5,7 @@
     padding: 10px;
     text-align: right;
     font-size: 40px;
+    background-color: #1F1F1D;
 }
 
 hr{
@@ -70,23 +71,26 @@ p{
 
 .jumbotron{
     background:#1F1F1D;
-    height: 25%;
-    padding: 2rem;
-    border-radius: 6rem;
-    margin-top: 20px;
-    border: solid rgb(114, 3, 189) 3px;
+    height: 55%;
+    padding: 20px;
+    /* margin-left: 10px;
+    margin-right: 10px; */
+    /* border-radius: 2rem; */
+    /* margin-top: 20px; */
+    /* border: solid rgb(114, 3, 189) 3px; */
 }
 
 .image{
-    height: 30%;
-    border: solid rgb(114, 3, 189) 8px;
-    border-radius: 7rem;
+    height: 200px;
+    border: solid rgb(114, 3, 189) 5px;
+    border-radius: 6rem;
 }
 
 .icon{
     padding: 10px;
     color: #747474;
     text-align: center;
+    margin-bottom: 30px;
 }
 
 .profile{
@@ -107,8 +111,8 @@ p{
 .project-screenshot{
     height: 100px;
     width: 200px;
-    border: solid 5px rgb(114, 3, 189);
-    border-radius: 2rem;
+    border: solid rgb(114, 3, 189) 2px;
+    border-radius: 0.6rem;
 }
 
 .da{
@@ -128,6 +132,6 @@ p{
     margin-top: 40px;
 }
 
-.projectDesDiv{
+/* .projectDesDiv{
     margin-top: 20px;
-}
+} */
